@@ -1,0 +1,12 @@
+train: /home/febin/Automatic-Numberplate-Recognition-System/data/ingested_data/train/images
+val: /home/febin/Automatic-Numberplate-Recognition-System/data/ingested_data/valid/images
+test: /home/febin/Automatic-Numberplate-Recognition-System/data/ingested_data/test/images
+nc: 1
+names: ['licence']
+
+roboflow:
+  workspace: learnfromthenerd
+  project: car_license_plate-aszjm
+  version: 1
+  license: Public Domain
+  url: https://universe.roboflow.com/learnfromthenerd/car_license_plate-aszjm/dataset/1

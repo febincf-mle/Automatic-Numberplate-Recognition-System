@@ -6,6 +6,16 @@ __pycache__/
 # C extensions
 *.so
 
+# Virtualenvironments
+.virtualenvi
+
+# Data folder
+data/
+videos/
+
+# Runs folder
+runs/
+
 # Distribution / packaging
 .Python
 build/
